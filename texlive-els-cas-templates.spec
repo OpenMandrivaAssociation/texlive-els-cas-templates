@@ -1,6 +1,6 @@
 Name:		texlive-els-cas-templates
 Version:	62931
-Release:	1
+Release:	2
 Summary:	Elsevier updated LaTeX templates
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/els-cas-templates
