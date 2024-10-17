@@ -3,7 +3,7 @@ Version:	71189
 Release:	1
 Summary:	Elsevier updated LaTeX templates
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/els-cas-templates
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/els-cas-templates
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/els-cas-templates.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/els-cas-templates.doc.r%{version}.tar.xz
